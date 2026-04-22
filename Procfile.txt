@@ -1,2 +1,2 @@
-worker: python tgbot.py
+worker: python PEPEBot.py
 web: python -m http.server $PORT
